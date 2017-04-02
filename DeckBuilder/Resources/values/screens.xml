@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="screen_array">
+    <item>Find Cards</item>
+    <item>Build Decks</item>
+  </string-array>
+</resources>

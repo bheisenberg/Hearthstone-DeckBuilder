@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string-array name="type_array">
+    <item>Any</item>
+    <item>Weapon</item>
+    <item>Spell</item>
+    <item>Enchantment</item>
+    <item>Minion</item>
+    <item>Hero Power</item>
+    <item>Hero</item>
+  </string-array>
+</resources>
